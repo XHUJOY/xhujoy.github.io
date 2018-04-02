@@ -52,7 +52,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/img/bgimage.jpg"
-# footer-img: "/img/bgimage.png"
+footer-img: "/img/bgimage.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -60,16 +60,16 @@ navbar-img: "/img/bgimage.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Xiaowei Hu (xhujoy)
+  name: 胡晓伟 (xhujoy)
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-#  rss: true
   email: "xiaowei.hu@outlook.com"
   github: "xhujoy"
+  rss: true
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: yourname
