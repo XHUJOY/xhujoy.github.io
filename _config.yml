@@ -60,26 +60,26 @@ navbar-img: "/img/bgimage.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 胡晓伟
+  name: Xiaowei Hu (xhujoy)
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "xiaowei.hu@outlook.com"
   github: "xhujoy"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: "xiaowei-hu-159a72141"
+#  linkedin: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +86 182-2255-1903
+#  telephone: yournumber
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
