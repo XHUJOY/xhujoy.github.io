@@ -69,17 +69,17 @@ author:
 social-network-links:
   rss: true
   email: "xiaowei.hu@outlook.com"
-  github: "https://github.com/xhujoy"
+  github: "xhujoy"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: "https://www.linkedin.com/in/xiaowei-hu-159a72141/"
+  linkedin: "xiaowei-hu-159a72141"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +86 182-2255-1903
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -89,7 +89,7 @@ share-links-active:
   twitter: false
   facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
