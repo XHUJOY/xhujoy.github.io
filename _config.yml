@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: xhujoy的博客
+title: Blog
 
 # Short description of your site
-# description: A virtual proof that name is awesome!
+description: 竹杖芒鞋轻胜马，一蓑烟雨任平生。
 
 # --- Navigation bar options --- #
 
@@ -51,8 +51,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.jpg"
-# footer-img: "/img/bgimage.jpg"
+navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -98,7 +98,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-116907840-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -130,7 +130,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
